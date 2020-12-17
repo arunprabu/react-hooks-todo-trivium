@@ -12,6 +12,8 @@ const UserData = () => {
   // by default useEffect callback will be called once automatically
   // remove the dep and then see
 
+  
+
   return (
     <div>
       <h2>useEffect() Hook Demo</h2>
