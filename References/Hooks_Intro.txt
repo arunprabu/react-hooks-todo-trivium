@@ -1,0 +1,18 @@
+Hooks 
+----
+  New concept introduced in react v16.8. (feb 2019)
+  Hooks let you use state, and many other react features without writing class comp. 
+  Many of the features available to class comp such as lifecycle hooks 
+    and states are available in fn comp's.
+  Hooks faciliates the any to any comp communication as well.
+
+  Life cycle hooks and React Hooks are not same. 
+
+  5 Hooks / 10 Hooks
+
+  ----
+
+  Rules of Hooks 
+    Refer: 
+    https://reactjs.org/docs/hooks-rules.html
+
